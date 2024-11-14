@@ -19,4 +19,6 @@ search.addEventListener('click', async () => {
     data.forEach(obj => {
         
     });
-})
+});
+
+// https://yashsainani.github.io/Image-Searcher/
